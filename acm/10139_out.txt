@@ -1,0 +1,9 @@
+9 divides 6!
+27 does not divide 6!
+10000 divides 20!
+100000 does not divide 20!
+1009 does not divide 1000!
+0 does not divide 5!
+1 divides 0!
+2 does not divide 0!
+0 does not divide 1!

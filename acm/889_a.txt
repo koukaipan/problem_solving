@@ -1,0 +1,6 @@
+The minimal interconnect consists of 7 bridges with a total length of 7.121
+The minimal interconnect consists of 1 bridges with a total length of 0.707
+The minimal interconnect consists of 4 bridges with a total length of 3.832
+The minimal interconnect consists of 2 bridges with a total length of 2.000
+The minimal interconnect consists of 3 bridges with a total length of 4.000
+The minimal interconnect consists of 1 bridges with a total length of 0.000
